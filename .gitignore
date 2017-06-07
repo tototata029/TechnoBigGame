@@ -1,0 +1,39 @@
+# ===================== # 
+# Unity Generated Files #
+# ===================== #
+[Tt]emp/
+[Oo]bj/
+[Bb]uilds/
+[Ll]ibrary/
+sysinfo.txt
+*.stackdump
+*.apk
+*.unitypackage
+
+# ===================== # 
+# Visual Studio / Mono  #
+# ===================== #
+[Ee]xported [Oo]bj/
+.vs/
+/*.userprefs
+/*.csproj
+/*.suo
+/*.sln*
+/*.user
+/*.unityproj
+/*.bootproj
+/*.tmp
+
+# ============ #
+# OS Generated #
+# ============ #
+.DS_Store*
+._*
+.Trashes
+.Spotlight-v100
+Icon
+ehthumbs/db
+[Tt]humbs.db
+[Dd]esktop.ini
+Corridor/Library/ShaderCache
+Corridor/Library/metadata
